@@ -30,7 +30,7 @@ class Qudratic
 
 
 
-public class Lab{
+public class Lab1{
     public static void main (String args[])
     {
         Scanner S1 =  new Scanner(System.in);
